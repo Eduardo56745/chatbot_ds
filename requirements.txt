@@ -1,7 +1,6 @@
 fastapi
-uvicorn
-gunicorn
+uvicorn[standard]
 sentence-transformers
 faiss-cpu
-pandas
-scikit-learn
+numpy
+pickle-mixin
