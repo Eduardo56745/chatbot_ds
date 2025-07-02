@@ -1,0 +1,9 @@
+Desde la terminal, en la carpeta donde está main.py, ejecutar:
+
+uvicorn main:app --reload --host 0.0.0.0 --port 8000
+
+Abrir el navegador:
+
+http://localhost:8000/preguntar?q=tu_pregunta
+
+Ctrl + c para detener API
