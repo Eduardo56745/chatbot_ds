@@ -6,4 +6,4 @@ Abrir el navegador:
 
 http://localhost:8000/preguntar?q=tu_pregunta
 
-Ctrl + c para detener API
+Ctrl + C para detener API
