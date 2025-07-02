@@ -1,4 +1,4 @@
-# 🚀 Asistente Conversacional con FastAPI, FAISS y Sentence-Transformers
+![](img/chatbot_ds.png)
 
 Este proyecto consiste en un **asistente conversacional especializado** que responde preguntas y ofrece resúmenes basados en documentos PDF, usando técnicas de **búsqueda semántica** y **modelos de lenguaje**.
 
